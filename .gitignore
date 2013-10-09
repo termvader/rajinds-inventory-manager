@@ -1,0 +1,2 @@
+pattern_imgs/*
+!pattern_imgs/.gitkeep
